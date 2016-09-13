@@ -1,11 +1,5 @@
 # 第四章 分布式和并行计算
 
-> 来源：[Chapter 4: Distributed and Parallel Computing](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/communication.html)
-
-> 译者：[飞龙](https://github.com/wizardforcel)
-
-> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 ## 4.1 引言
 
 目前为止，我们专注于如何创建、解释和执行程序。在第一章中，我们学会使用函数作为组合和抽象的手段。第二章展示了如何使用数据结构和对象来表示和操作数据，以及向我们介绍了数据抽象的概念。在第三章中，我们学到了计算机程序如何解释和执行。结果是，我们理解了如何设计程序，它们在单一处理器上运行。

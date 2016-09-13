@@ -1,11 +1,5 @@
 # 第五章 序列和协程
 
-> 来源：[Chapter 5: Sequences and Coroutines](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/streams.html)
-
-> 译者：[飞龙](https://github.com/wizardforcel)
-
-> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 ## 5.1 引言
 
 在这一章中，我们通过开发新的工具来处理有序数据，继续讨论真实世界中的应用。在第二章中，我们介绍了序列接口，在 Python 内置的数据类型例如`tuple`和`list`中实现。序列支持两个操作：获取长度和由下标访问元素。第三章中，我们开发了序列接口的用户定义实现，用于表示递归列表的`Rlist`类。序列类型具有高效的表现力，并且可以让我们高效访问大量有序数据集。
